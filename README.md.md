@@ -1,6 +1,7 @@
 ### Creating a SSH and pushing to GitHub
 
-### Step 1: 
+### Step 1:
+
 `pwd` - this command locates the current working directory
 
 `ls` - this command is used to list files
